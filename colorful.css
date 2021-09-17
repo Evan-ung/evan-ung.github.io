@@ -2,9 +2,10 @@ body {
    background-image: url("backgroundtest.png");
    background-size: cover;
    background-position: center;
-   }
-head{
+}
+head1 {
    color: white;
 }
 p {
    color: white;
+}
