@@ -1,11 +1,12 @@
-body {
-   background-image: url("backgroundtest.png");
-   background-size: cover;
-   background-position: center;
-}
 h1 {
    color: white;
 }
 p {
    color: white;
+}
+
+body {
+   background-image: url("backgroundtest.png");
+   background-size: cover;
+   background-position: center;
 }
