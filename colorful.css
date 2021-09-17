@@ -1,4 +1,5 @@
 body{
-   background-image: url("TokyoCity.jpg")
+   background-image: url("TokyoCity.jpg");
+   background-size: cover;
    background-color: #5F5F5F;
    }
