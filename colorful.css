@@ -1,5 +1,10 @@
-body{
+body {
    background-image: url("backgroundtest.png");
    background-size: cover;
    background-position: center;
    }
+head{
+   color: white;
+}
+p {
+   color: white;
