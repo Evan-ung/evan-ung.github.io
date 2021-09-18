@@ -12,3 +12,19 @@ body {
    background-size: cover;
    background-position: center;
 }
+#mainbodie {
+ width: 1200px;
+ margin: auto;
+ border: 1px solid;
+ border-top: 5px solid;
+ border-bottom: 5px solid;
+ background-color: #11111195; 
+ padding: 20px;
+            }
+#headbuttons {
+   width: 1150px;
+   margin: auto;
+   border: 1px solid;
+   border-top: 2px solid;
+   background-color: #00000095;
+            
