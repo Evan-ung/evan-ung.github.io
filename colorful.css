@@ -8,6 +8,7 @@ p {
 }
 
 body {
+   background-color: #000000
    background-image: url("backgroundtest.png");
    background-size: cover;
    background-position: center;
