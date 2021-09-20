@@ -18,13 +18,20 @@ h2 {
    font-family: sans-serif;
 }
 #mainbodie {
-                   width: 70%";
-                    margin: auto;
-                    border: 1px solid;
-                    border-top: 5px solid;
-                    border-bottom: 5px solid;
-                    background-color: #00000095; 
-                    padding: 20px;
-                            }
+     width: 70%";
+     margin: auto;
+     border: 1px solid;
+     border-top: 5px solid;
+     border-bottom: 5px solid;
+     background-color: #00000095; 
+     padding: 20px;
+}       
+#headbuttons {
+     width: 1150px;
+     margin: auto;
+     border: 1px solid;
+     border-top: 2px solid;
+     background-color: #00000095;
+}
 
             
