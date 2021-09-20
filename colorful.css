@@ -2,10 +2,6 @@ h1 {
    color: #ffffff;
    font-family: sans-serif;
 }
-h2 {
-   color: #ffffff;
-   font-family: sans-serif;
-}
 p {
    color: #ffffff;
    font-family: sans-serif;
@@ -16,6 +12,10 @@ body {
    background-image: url("mybackground.jpg");
    background-size: cover;
    background-position: center;
+}
+h2 {
+   color: #ffffff;
+   font-family; sans-serif;
 }
 
             
